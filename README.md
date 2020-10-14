@@ -4,7 +4,7 @@ Examen 1 Realizado por: Jorge David Elihu Mejia Castro
 
 -----------
 
-# Archivo Sensores.py 
+# Archivo Sensores-test1.py 
 
 ## Prerequisitos
 El Script hace uso de la libreria PySerial para la comunicación serial, la cual puede ser instalada con 
@@ -55,4 +55,6 @@ ya que no pude hacer uso de la libreria.
 # Link del video
 
 https://www.youtube.com/watch?v=DIH8ORRZIDs
+
+> La unica diferencia entre entre el código antiguo y este nuevo es que en el nuevo los cambios se ven reflejados de manera instánea en el script por lo que no vi necesario grabar y subir otro video ya que toma bastante tiempo con mi internet.
 
