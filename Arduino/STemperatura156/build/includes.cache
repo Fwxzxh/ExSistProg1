@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/usr/share/arduino/hardware/archlinux-arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/usr/share/arduino/hardware/archlinux-arduino/avr/variants/mega"
+  },
+  {
+    "Sourcefile": "/run/media/jdemc/Nuevo vol/INBOX LINUX/Arduino/STemperatura156/build/sketch/STemperatura156.ino.cpp",
+    "Include": "dht11.h",
+    "Includepath": "/home/jdemc/Arduino/libraries/DHT11lib"
+  },
+  {
+    "Sourcefile": "/run/media/jdemc/Nuevo vol/INBOX LINUX/Arduino/STemperatura156/build/sketch/STemperatura156.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/jdemc/Arduino/libraries/DHT11lib/dht11.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

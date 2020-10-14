@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "",
+  "builtInToolsFolders": "/usr/share/arduino/tools-builder",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "programmer=archlinux-arduino:arduinoasisp,build.path=/run/media/jdemc/Nuevo vol/INBOX LINUX/Arduino/STemperatura156/build,build.warn_data_percentage=75",
+  "fqbn": "archlinux-arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "/usr/share/arduino/hardware",
+  "otherLibrariesFolders": "/home/jdemc/Arduino/libraries",
+  "runtime.ide.version": "10813",
+  "sketchLocation": "/run/media/jdemc/Nuevo vol/INBOX LINUX/Arduino/STemperatura156/STemperatura156.ino"
+}
